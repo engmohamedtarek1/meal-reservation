@@ -1,0 +1,25 @@
+D:\meals_booking\Core\bin\Debug\net7.0\Core.deps.json
+D:\meals_booking\Core\bin\Debug\net7.0\Core.dll
+D:\meals_booking\Core\bin\Debug\net7.0\Core.pdb
+D:\meals_booking\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+D:\meals_booking\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\meals_booking\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\meals_booking\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\meals_booking\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\meals_booking\Core\obj\Debug\net7.0\Core.dll
+D:\meals_booking\Core\obj\Debug\net7.0\refint\Core.dll
+D:\meals_booking\Core\obj\Debug\net7.0\Core.pdb
+D:\meals_booking\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\bin\Debug\net7.0\Core.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\Core.sourcelink.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\Core.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\Core\obj\Debug\net7.0\ref\Core.dll

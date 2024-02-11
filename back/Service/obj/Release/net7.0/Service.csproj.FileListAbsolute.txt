@@ -1,0 +1,15 @@
+D:\meals_booking\Service\bin\Release\net7.0\Service.deps.json
+D:\meals_booking\Service\bin\Release\net7.0\Service.dll
+D:\meals_booking\Service\bin\Release\net7.0\Service.pdb
+D:\meals_booking\Service\bin\Release\net7.0\Core.dll
+D:\meals_booking\Service\bin\Release\net7.0\Core.pdb
+D:\meals_booking\Service\obj\Release\net7.0\Service.csproj.AssemblyReference.cache
+D:\meals_booking\Service\obj\Release\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\meals_booking\Service\obj\Release\net7.0\Service.AssemblyInfoInputs.cache
+D:\meals_booking\Service\obj\Release\net7.0\Service.AssemblyInfo.cs
+D:\meals_booking\Service\obj\Release\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\meals_booking\Service\obj\Release\net7.0\Service.csproj.CopyComplete
+D:\meals_booking\Service\obj\Release\net7.0\Service.dll
+D:\meals_booking\Service\obj\Release\net7.0\refint\Service.dll
+D:\meals_booking\Service\obj\Release\net7.0\Service.pdb
+D:\meals_booking\Service\obj\Release\net7.0\ref\Service.dll

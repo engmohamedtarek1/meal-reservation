@@ -1,0 +1,66 @@
+.profile {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+h1 {
+	margin: 40px 0 60px 0;
+	font-family: 'Cairo', sans-serif;
+	font-weight: 300;
+	padding: 10px;
+	border: 3px solid transparent;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+}
+
+h1:hover {
+	border: 3px solid #ccc;
+}
+
+h1 span {
+	padding: 10px;
+	font-weight: 700;
+	border-bottom: 3px solid #ccc;
+}
+
+.profile-text {
+	margin-bottom: 20px;
+}
+
+button {
+	margin-bottom: 20px;
+}
+
+.error-message {
+	color: #f02849;
+	align-self: center;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.error-message i {
+	font-size: 20px;
+	margin-right: 5px;
+}
+
+.success-message {
+	color: rgb(94, 241, 94);
+	align-self: center;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.success-message i {
+	font-size: 20px;
+	margin-right: 5px;
+}

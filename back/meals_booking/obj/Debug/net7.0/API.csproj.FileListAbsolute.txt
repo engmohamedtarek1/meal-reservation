@@ -1,0 +1,179 @@
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.AssemblyInfo.cs
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.dll
+D:\meals_booking\meals_booking\obj\Debug\net7.0\refint\API.dll
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.pdb
+D:\meals_booking\meals_booking\bin\Debug\net7.0\appsettings.Development.json
+D:\meals_booking\meals_booking\bin\Debug\net7.0\appsettings.json
+D:\meals_booking\meals_booking\bin\Debug\net7.0\API.exe
+D:\meals_booking\meals_booking\bin\Debug\net7.0\API.deps.json
+D:\meals_booking\meals_booking\bin\Debug\net7.0\API.runtimeconfig.json
+D:\meals_booking\meals_booking\bin\Debug\net7.0\API.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\API.pdb
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Azure.Core.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Azure.Identity.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Humanizer.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.CodeDom.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.Memory.Data.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Core.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Repository.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Core.pdb
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Repository.pdb
+D:\meals_booking\meals_booking\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\meals_booking\meals_booking\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+D:\meals_booking\meals_booking\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\meals_booking\meals_booking\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\meals_booking\meals_booking\obj\Debug\net7.0\staticwebassets.pack.json
+D:\meals_booking\meals_booking\obj\Debug\net7.0\staticwebassets.build.json
+D:\meals_booking\meals_booking\obj\Debug\net7.0\staticwebassets.development.json
+D:\meals_booking\meals_booking\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.csproj.CopyComplete
+D:\meals_booking\meals_booking\obj\Debug\net7.0\API.genruntimeconfig.cache
+D:\meals_booking\meals_booking\obj\Debug\net7.0\ref\API.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Service.dll
+D:\meals_booking\meals_booking\bin\Debug\net7.0\Service.pdb
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\appsettings.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\API.exe
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\API.deps.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\API.runtimeconfig.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\API.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\API.pdb
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Humanizer.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Core.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Repository.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Service.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Core.pdb
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Repository.pdb
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\bin\Debug\net7.0\Service.pdb
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.sourcelink.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\refint\API.dll
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.pdb
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\kitch\Desktop\Dr. - Eng. MohamedTarek\Projects\meals_booking - Copy\meals_booking\obj\Debug\net7.0\ref\API.dll
