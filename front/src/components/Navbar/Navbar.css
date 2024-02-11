@@ -2,13 +2,28 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	background-color: #b09df94f;
-	padding: 20px 80px;
+	background: linear-gradient(135deg, #5555ce 0%, #423477 60%, #423477 100%);
+	/* background-color: #44d9e8; */
+	padding: 10px 80px;
+	margin-bottom: 15px;
 }
 
 .left {
 	font-family: 'Pacifico', cursive;
 	font-size: 24px;
+	display: flex;
+	gap: 4rem;
+}
+
+.right {
+	display: flex;
+	justify-content: space-between;
+	width: 60%;
+}
+
+.logo {
+	width: 4rem;
+	height: 4rem;
 }
 
 .navbar :link,
@@ -92,6 +107,16 @@ a.active:hover::after {
 
 #mobile {
 	display: none;
+}
+
+.logout {
+	padding: 10px;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	cursor: pointer;
 }
 
 @media screen and (max-width: 769px) {

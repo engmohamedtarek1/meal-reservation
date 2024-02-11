@@ -9,10 +9,16 @@ using API.Middlewares;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Hangfire;
+using API.Hangfire;
 
 var builder = WebApplication.CreateBuilder(args);
 
 #region Add services to the container
+
+// add hanfire to set order on specified time
+builder.Services.AddHangfire(X => X.UseSqlServerStorage(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddHangfireServer();
 
 // Register Api Controller
 builder.Services.AddControllers();
@@ -173,6 +179,10 @@ app.MapControllers();
 app.UseAuthentication();
 
 app.UseAuthorization();
+
+app.UseHangfireDashboard("/dashboard");
+
+RecurringJob.AddOrUpdate<DataDeletionJob>("data-deletion-job", x => x.Execute(), Cron.Daily(22));
 #endregion
 
-app.Run();
+app.Run(); 

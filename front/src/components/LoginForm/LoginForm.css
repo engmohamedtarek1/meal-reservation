@@ -87,7 +87,7 @@
 .submit-container {
 	display: flex;
 	gap: 30px;
-	margin: 60px auto;
+	margin: 20px auto;
 }
 
 .submit {
@@ -159,4 +159,11 @@
 .error-message i {
 	font-size: 20px;
 	margin-right: 5px;
+}
+
+.reset-password a,
+.signup-button a {
+	color: #3a8bf4 !important;
+	text-decoration-line: none;
+	-moz-text-decoration-line: none;
 }

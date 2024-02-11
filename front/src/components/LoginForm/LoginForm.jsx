@@ -3,6 +3,7 @@ import './LoginForm.css';
 import email_icon from '../../images/email.png';
 import password_icon from '../../images/password.png';
 import axios from 'axios';
+import { Link } from 'react-router-dom';
 
 function LoginForm() {
 	const [formData, setFormData] = useState({
@@ -67,6 +68,12 @@ function LoginForm() {
 						></input>
 					</div>
 				</div>
+				<p className="reset-password">
+					<Link to="/reset-password">Forgot your password? Reset it.</Link>
+				</p>
+				<p className="signup-button">
+					<Link to="/signup">Doesn't have an account? Create new one.</Link>
+				</p>
 				<div className="submit-container">
 					<button type="submit" className="submit" onClick={fetchData}>
 						Login

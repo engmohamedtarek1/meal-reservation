@@ -4,6 +4,7 @@ import user_icon from '../../images/person.png';
 import email_icon from '../../images/email.png';
 import password_icon from '../../images/password.png';
 import axios from 'axios';
+import PasswordChecklist from 'react-password-checklist';
 
 function SignupForm() {
 	const [formData, setFormData] = useState({
@@ -15,6 +16,8 @@ function SignupForm() {
 	});
 
 	const [error, setError] = useState(false);
+	const [password, setPassword] = useState('');
+	const [passwordAgain, setPasswordAgain] = useState('');
 
 	const handleChange = (e) => {
 		const { name, value } = e.target;
@@ -76,24 +79,43 @@ function SignupForm() {
 							onChange={handleChange}
 						></input>
 					</div>
-					<div className="input">
-						<img src={password_icon} alt=""></img>
-						<input
-							type="password"
-							name="password"
-							placeholder="كلمة المرور"
-							onChange={handleChange}
-						></input>
+					<div className="password-container">
+						<div className="input">
+							<img src={password_icon} alt=""></img>
+							<input
+								type="password"
+								name="password"
+								placeholder="كلمة المرور"
+								onChange={(handleChange, (e) => setPassword(e.target.value))}
+							></input>
+						</div>
+						<div className="input">
+							<img src={password_icon} alt=""></img>
+							<input
+								type="password"
+								name="ConfirmPassword"
+								placeholder="تأكيد كلمة المرور"
+								onChange={
+									(handleChange, (e) => setPasswordAgain(e.target.value))
+								}
+							></input>
+						</div>
 					</div>
-					<div className="input">
-						<img src={password_icon} alt=""></img>
-						<input
-							type="password"
-							name="ConfirmPassword"
-							placeholder="تأكيد كلمة المرور"
-							onChange={handleChange}
-						></input>
-					</div>
+					<PasswordChecklist
+						rules={['minLength', 'specialChar', 'number', 'capital', 'match']}
+						minLength={8}
+						value={password}
+						valueAgain={passwordAgain}
+						onChange={(isValid) => {}}
+						messages={{
+							minLength: 'كلمة المرور تحتوي على 8 أحرف على الأقل.',
+							specialChar: 'كلمةالمرور تحتوي على حرف مميز ($, %, ^, ...).',
+							number: 'كلمة المرور تحتوي على رقم.',
+							capital: 'كلمة المرور تحتوي على حرف كبير.',
+							match: 'كلمة المرور وتأكيدتها متشابهان.',
+						}}
+						rtl={true}
+					/>
 				</div>
 				<button type="submit" className="submit" onClick={fetchData}>
 					Sign Up

@@ -187,5 +187,11 @@ namespace API.Controllers
         {
             return await _userManager.FindByEmailAsync(email) is not null;
         }
+
+        [ApiExplorerSettings(IgnoreApi = true)]
+        public void SendMessage(string email)
+        {
+            Console.WriteLine("Email Sent");
+        }
     }
-}
+}   

@@ -32,8 +32,8 @@ const StudentsCard = ({ ssn, name, email, date, token }) => {
 			type: 'number',
 		},
 		{ field: 'studentName', headerName: 'الاسم', width: 180 },
-		{ field: 'studentEmail', headerName: 'الايميل', width: 180 },
-		{ field: 'bookingDate', headerName: 'التاريخ', width: 180 },
+		{ field: 'studentEmail', headerName: 'الايميل', width: 235 },
+		{ field: 'bookingDate', headerName: 'التاريخ', width: 230 },
 	];
 
 	const rows = studentsData || [];
@@ -50,7 +50,7 @@ const StudentsCard = ({ ssn, name, email, date, token }) => {
 								paginationModel: { page: 0, pageSize: 5 },
 							},
 						}}
-						pageSizeOptions={[5, 10]}
+						pageSizeOptions={[5]}
 					/>
 				</div>
 			</div>

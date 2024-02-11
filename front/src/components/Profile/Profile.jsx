@@ -33,10 +33,18 @@ const Profile = () => {
 				<h1>
 					،أهلاً <span>{userData.name}</span>
 				</h1>
-				<h3 className="profile-text">لحجز الوجبات يرجى الضغط على هذا الزر</h3>
-				<button type="submit" className="submit" onClick={handleClick}>
-					حجز الوجبة
-				</button>
+				{!hasAdmin ? (
+					<>
+						<h3 className="profile-text">
+							لحجز الوجبات يرجى الضغط على هذا الزر
+						</h3>
+						<button type="submit" className="submit hagz" onClick={handleClick}>
+							حجز الوجبة
+						</button>
+					</>
+				) : (
+					''
+				)}
 				{success === 'Yes' ? (
 					<div className="success-message">
 						<i className="fa-solid fa-check-double"></i> تم حجز الوجبة بنجاح.
